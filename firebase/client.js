@@ -1,14 +1,13 @@
 import * as firebase from 'firebase'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC70LAhPV1qHunyNoZbOAk7QRUEh57PPbQ",
-  authDomain: "devter-6661a.firebaseapp.com",
-  databaseURL: "https://devter-6661a.firebaseio.com",
-  projectId: "devter-6661a",
-  storageBucket: "devter-6661a.appspot.com",
-  messagingSenderId: "807038871343",
-  appId: "1:807038871343:web:cb90ded09f7def7d8063da",
-  measurementId: "G-909SM8WT3B"
+  apiKey: "AIzaSyD6pzxCOvvlS0AT_l0zNJnJcUCXtkkZw8g",
+  authDomain: "devter-edf32.firebaseapp.com",
+  projectId: "devter-edf32",
+  storageBucket: "devter-edf32.appspot.com",
+  messagingSenderId: "815177621579",
+  appId: "1:815177621579:web:1394ae1293ad18ba776dce",
+  measurementId: "G-M4RJE4J2YZ"
 }
 
 !firebase.apps.length &&
